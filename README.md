@@ -69,12 +69,6 @@
   <img src="https://ghchart.rshah.org/JavierNavarro12" alt="Javier's Github chart" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/JavierNavarro12/JavierNavarro12?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/JavierNavarro12/JavierNavarro12?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/JavierNavarro12?style=for-the-badge" />
-</p>
-
 ---
 
 ## 🌟 Proyectos Destacados
