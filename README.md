@@ -53,7 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cursor/cursor-original.svg" width="40px"/>
+  <img src="https://img.shields.io/badge/Cursor_IDE-222222?style=for-the-badge&logoColor=white" height="40px"/>
   <img src="https://img.shields.io/badge/APIs-222222?style=for-the-badge&logo=api&logoColor=white" height="40px"/>
 </p>
 
@@ -69,6 +69,12 @@
 
 <p align="center">
   <img src="https://ghchart.rshah.org/JavierNavarro12" alt="Javier's Github chart" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/JavierNavarro12/JavierNavarro12?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/JavierNavarro12/JavierNavarro12?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/JavierNavarro12?style=for-the-badge" />
 </p>
 
 ---
@@ -89,3 +95,13 @@ No dudes en contactarme por [LinkedIn](https://www.linkedin.com/in/javiernavarro
 <p align="center">
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/JavierNavarro12/JavierNavarro12/stargazers">
+    <img src="https://img.shields.io/github/stars/JavierNavarro12/JavierNavarro12?style=for-the-badge" alt="GitHub stars"/>
+    <br/>
+    ⭐ ¡Dame una estrella en GitHub! ⭐
+  </a>
+</p>
+
+---
