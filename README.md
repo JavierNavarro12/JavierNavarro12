@@ -53,8 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40px"/>
-  <img src="https://img.shields.io/badge/Cursor_IDE-222222?style=for-the-badge&logoColor=white" height="40px"/>
-  <img src="https://img.shields.io/badge/APIs-222222?style=for-the-badge&logo=api&logoColor=white" height="40px"/>
 </p>
 
 ---
