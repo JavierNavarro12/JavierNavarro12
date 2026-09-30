@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="410" viewBox="0 0 960 410" role="img" aria-labelledby="title desc" xml:space="preserve">
+<title id="title">Javier Navarro · Full Stack Developer</title>
+<desc id="desc">Terminal con el logo de Javier Navarro y su perfil: Full Stack Developer en Granada, España. React, Next.js, TypeScript, Tailwind, Node.js, PHP, Firebase, Supabase, Stripe, SwiftUI, OpenAI y Gemini. Abierto a oportunidades en remoto.</desc>
+<defs>
+<style>
+text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace; }
+.t { fill: #E6EDF3; } .m { fill: #7D8A99; } .d { fill: #3A4757; } .k { fill: #2DFFD4; } .b { fill: #56A0F4; }
+</style>
+<pattern id="faces" width="46" height="42" patternUnits="userSpaceOnUse">
+<g fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" opacity=".045"><path d="M9 9l7 7M16 9l-7 7"/><path d="M11 26q8 5 16 0"/></g>
+<circle cx="27" cy="12.5" r="3.6" fill="#FFFFFF" opacity=".045"/>
+</pattern>
+<radialGradient id="glow"><stop offset="0" stop-color="#2DFFD4" stop-opacity=".10"/><stop offset="1" stop-color="#2DFFD4" stop-opacity="0"/></radialGradient>
+<clipPath id="lp"><rect x="20" y="58" width="300" height="332" rx="10"/></clipPath>
+</defs>
+<rect x=".75" y=".75" width="958.5" height="408.5" rx="14" fill="#0B0F14"/>
+<path d="M14.75 .75H945.25A14 14 0 0 1 959.25 14.75V40H.75V14.75A14 14 0 0 1 14.75 .75Z" fill="#0F141A"/>
+<path d="M.75 40.5H959.25" stroke="#1E2630"/>
+<circle cx="24" cy="20.5" r="5.5" fill="#2A3441"/><circle cx="42" cy="20.5" r="5.5" fill="#2A3441"/><circle cx="60" cy="20.5" r="5.5" fill="#2A3441"/>
+<text x="480" y="25" text-anchor="middle" font-size="13" class="m">javier@granada: ~ — zsh</text>
+<rect x=".75" y=".75" width="958.5" height="408.5" rx="14" fill="none" stroke="#1E2630" stroke-width="1.5"/>
+<rect x="20" y="58" width="300" height="332" rx="10" fill="#080B10" stroke="#18212B"/>
+<g clip-path="url(#lp)"><rect x="20" y="58" width="300" height="332" fill="url(#faces)"/><circle cx="170" cy="205" r="150" fill="url(#glow)"/></g>
+<text x="36" y="80" font-size="11" class="m">avatar.svg</text>
+<g transform="translate(89.7 122) scale(.85)">
+<path d="M0 63V40A25 25 0 0 1 25 15H79Q84 15 84 10V0H105V10Q105 15 110 15H164A25 25 0 0 1 189 40V63H169V50.5A13.5 13.5 0 0 0 155.5 37H108C103 37 96 30 94.5 23.5C93 30 86 37 81 37H33.5A13.5 13.5 0 0 0 20 50.5V63Z" fill="#56A0F4"/>
+<path d="M0 90H20V143.5A13.5 13.5 0 0 0 33.5 157H81C86 157 93 164 94.5 170.5C96 164 103 157 108 157H155.5A13.5 13.5 0 0 0 169 143.5V90H189V153A25 25 0 0 1 164 178H110Q105 178 105 183V196H84V183Q84 178 79 178H25A25 25 0 0 1 0 153Z" fill="#56A0F4"/>
+<path d="M57.2 65.7L77.8 86.3M57.2 86.3L77.8 65.7" stroke="#2DFFD4" stroke-width="7"/>
+<g transform="translate(120 76)"><circle r="13.5" fill="#2DFFD4"><animateTransform attributeName="transform" type="scale" values="1 1;1 1;1 .12;1 1;1 1" keyTimes="0;.9;.93;.96;1" dur="5s" repeatCount="indefinite"/></circle></g>
+<path d="M39 107Q93.5 123 148 107V117.5Q93.5 146 39 117.5Z" fill="#2DFFD4"/>
+</g>
+<text x="170" y="356" text-anchor="middle" font-size="12" class="m">// de la idea a producción</text>
+<rect x="336" y="58" width="604" height="332" rx="10" fill="#080B10" stroke="#18212B"/>
+<rect x="784" y="74" width="140" height="22" rx="11" fill="#56A0F4" fill-opacity=".14"/>
+<text x="854" y="89.5" text-anchor="middle" font-size="12" class="b">@JavierNavarro12</text>
+<text x="360" y="102" font-size="20" font-weight="700"><tspan class="k">javier</tspan><tspan class="m">@</tspan><tspan class="b">granada</tspan></text>
+<text x="360" y="124" font-size="20" class="d">──────────────</text>
+<text x="360" y="158" font-size="16"><tspan class="k">rol</tspan><tspan class="d"> ........ </tspan><tspan class="t">Full Stack Developer</tspan></text>
+<text x="360" y="183" font-size="16"><tspan class="k">base</tspan><tspan class="d"> ....... </tspan><tspan class="t">Granada, España</tspan></text>
+<text x="360" y="208" font-size="16"><tspan class="k">frontend</tspan><tspan class="d"> ... </tspan><tspan class="t">React · Next.js · TypeScript · Tailwind</tspan></text>
+<text x="360" y="233" font-size="16"><tspan class="k">backend</tspan><tspan class="d"> .... </tspan><tspan class="t">Node.js · PHP · Firebase · Supabase · Stripe</tspan></text>
+<text x="360" y="258" font-size="16"><tspan class="k">móvil</tspan><tspan class="d"> ...... </tspan><tspan class="t">SwiftUI · iOS · watchOS</tspan></text>
+<text x="360" y="283" font-size="16"><tspan class="k">ia</tspan><tspan class="d"> ......... </tspan><tspan class="t">OpenAI · Gemini</tspan></text>
+<text x="360" y="308" font-size="16"><tspan class="k">calidad</tspan><tspan class="d"> .... </tspan><tspan class="t">Jest · Cypress · GitHub Actions</tspan></text>
+<text x="360" y="333" font-size="16"><tspan class="k">estado</tspan><tspan class="d"> ..... </tspan><tspan class="k">●<animate attributeName="fill-opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></tspan><tspan class="t"> abierto a oportunidades en remoto</tspan><tspan class="k">▋<animate attributeName="fill-opacity" values="1;0" dur="1.1s" calcMode="discrete" repeatCount="indefinite"/></tspan></text>
+<rect x="360" y="352" width="26" height="14" rx="3" fill="#56A0F4"/><rect x="390" y="352" width="26" height="14" rx="3" fill="#50AEEF"/><rect x="420" y="352" width="26" height="14" rx="3" fill="#4ABBEB"/><rect x="450" y="352" width="26" height="14" rx="3" fill="#44C9E6"/><rect x="480" y="352" width="26" height="14" rx="3" fill="#3FD6E2"/><rect x="510" y="352" width="26" height="14" rx="3" fill="#39E4DD"/><rect x="540" y="352" width="26" height="14" rx="3" fill="#33F1D9"/><rect x="570" y="352" width="26" height="14" rx="3" fill="#2DFFD4"/>
+</svg>
