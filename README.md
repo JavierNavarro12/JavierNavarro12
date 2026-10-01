@@ -12,11 +12,30 @@
 
 ## `$ whoami`
 
-Soy Javier, desarrollador full stack en Granada. Construyo productos web completos: la interfaz con React y Next.js, el backend con Node.js, Firebase o Supabase, los pagos con Stripe y las integraciones con IA. También he publicado en la App Store una app para iPhone y Apple Watch hecha con SwiftUI, y desarrollo módulos a medida para el ERP Dolibarr con PHP y MySQL.
+Soy Javier, desarrollador full stack en Granada. Construyo productos web completos: la interfaz con React y Next.js, el backend con Node.js, Firebase o Supabase, los pagos con Stripe y las integraciones con IA. También he publicado en la App Store una app para iPhone y Apple Watch hecha con SwiftUI, y con PHP y MySQL desarrollo plugins de WordPress y módulos a medida para el ERP Dolibarr.
 
 Todos los proyectos de abajo están publicados y se pueden probar.
 
 ## `$ ls ~/proyectos`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://taidlix.com"><img src="imagenes/proyectos/taidlix.webp" width="388" alt="Captura de Taidlix"></a><br>
+      <b>Taidlix</b><br>
+      <sub>SaaS para gestionar redes sociales: programa publicaciones, responde los mensajes desde un único inbox, genera contenido con IA y crea informes de métricas en PDF. Para Facebook, Instagram, TikTok y LinkedIn.</sub><br>
+      <sub><code>Next.js</code> <code>PostgreSQL</code> <code>Drizzle</code> <code>OAuth</code> <code>Claude API</code></sub><br>
+      <a href="https://taidlix.com">Web</a> · Código privado
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://cookieboy.es"><img src="imagenes/proyectos/cookieboy.webp" width="388" alt="Captura de CookieBoy"></a><br>
+      <b>CookieBoy</b><br>
+      <sub>Plugin de WordPress para cumplir el RGPD: detecta y clasifica las cookies, bloquea scripts hasta que hay consentimiento y genera la política de cookies. Google Consent Mode v2, 7 idiomas y licencias con Stripe.</sub><br>
+      <sub><code>PHP</code> <code>WordPress</code> <code>JavaScript</code> <code>MySQL</code> <code>Stripe</code></sub><br>
+      <a href="https://cookieboy.es">Web</a> · Código privado
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -60,7 +79,7 @@ Todos los proyectos de abajo están publicados y se pueden probar.
     <td width="33%" valign="top">
       <a href="https://portfoliojaviernavarro.netlify.app"><img src="imagenes/proyectos/portfolio.webp" width="250" alt="Captura del portfolio"></a><br>
       <b>Portfolio</b><br>
-      <sub>Más proyectos, también los que no tienen código público.</sub><br>
+      <sub>Portfolio bilingüe con animaciones en GSAP y una escena 3D de Spline.</sub><br>
       <sub><code>React</code> <code>Vite</code> <code>GSAP</code> <code>Spline</code></sub><br>
       <a href="https://portfoliojaviernavarro.netlify.app">Web</a> · <a href="https://github.com/JavierNavarro12/portfolio">Código</a>
     </td>
@@ -80,8 +99,8 @@ Todos los proyectos de abajo están publicados y se pueden probar.
   <tr>
     <td><code>├─ backend:</code></td>
     <td>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs%2Cphp%2Cfirebase%2Csupabase%2Cpostgres%2Cmysql&theme=light"><img height="40" src="https://skillicons.dev/icons?i=nodejs%2Cphp%2Cfirebase%2Csupabase%2Cpostgres%2Cmysql" alt="Node.js, PHP, Firebase, Supabase, PostgreSQL y MySQL"></picture><br>
-      <sub>Node.js · PHP · Firebase · Supabase · PostgreSQL · MySQL · Stripe</sub>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs%2Cphp%2Cwordpress%2Cfirebase%2Csupabase%2Cpostgres%2Cmysql&theme=light"><img height="40" src="https://skillicons.dev/icons?i=nodejs%2Cphp%2Cwordpress%2Cfirebase%2Csupabase%2Cpostgres%2Cmysql" alt="Node.js, PHP, WordPress, Firebase, Supabase, PostgreSQL y MySQL"></picture><br>
+      <sub>Node.js · PHP · WordPress · Firebase · Supabase · PostgreSQL · MySQL · Stripe</sub>
     </td>
   </tr>
   <tr>
